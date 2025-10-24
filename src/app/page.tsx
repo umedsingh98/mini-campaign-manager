@@ -115,7 +115,7 @@ export default function Dashboard() {
           <div className="flex items-center space-x-3">
             <div className="w-2 h-2 bg-orange-500 rounded-full"></div>
             <div className="flex-1">
-              <p className="text-sm text-gray-900">Meeting booked with John Doe</p>
+              <p className="text-sm text-gray-900">Meeting booked with xyz</p>
               <p className="text-xs text-gray-500">8 hours ago</p>
             </div>
           </div>

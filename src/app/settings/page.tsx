@@ -5,8 +5,8 @@ import { User, Bell, Shield, Palette, Save } from 'lucide-react';
 
 export default function SettingsPage() {
   const [settings, setSettings] = useState({
-    name: 'John Doe',
-    email: 'john.doe@example.com',
+    name: 'Umed Singh',
+    email: 'umedsingh2981998@gmail.com',
     notifications: {
       email: true,
       push: false,
